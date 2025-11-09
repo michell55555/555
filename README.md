@@ -16,7 +16,7 @@
 <br>
 </ul>
     <marquee behavior="alternate" direction="left" scrollamount="5">
-<p><b>NOMBRE</b> : Michell Dayana Badillo Salazar</p>
+ Michell Dayana Badillo Salazar
     </marquee>
 </body>
 </html>
