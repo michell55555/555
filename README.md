@@ -15,6 +15,6 @@
 <li>Como CEO de Microsoft o como copresidente de la fundacion "Bil y Melinda Gates",siempre e enfoco en contartar personas muy inteligentes y ponerlos a trabajar en pequeños grupos para resolver los grandes problemas.</li>
 <br>
 </ul>
-<p><b>NOMBRE</u> : Michell Dayana Badillo Salazar</p>
+<p><b>NOMBRE</b> : Michell Dayana Badillo Salazar</p>
 </body>
 </html>
